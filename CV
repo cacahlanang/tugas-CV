@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Shalahudin Hikam Al Ayubi</title>
+
+</head>
+<body style="margin-left: 100px; margin-right: 100px; text-align: justify-all; background-color: lightgreen;">
+
+	<hr style="height: 5px; background-color: black">
+	<hr style="height: 15px; background-color: lightblue">
+	<h1 style="background-color: blue; color: white"><center>CURICULLUM VITAE</center></h1>
+	<hr style="height: 10px; background-color: black">
+	<center>
+		<img src="fb.jpg"/ style="width: 250px">
+	</center>
+
+	<table cellspacing="7">
+		<caption><h2>DATA DIRI</h2></caption>
+		<thead>
+			<tr>
+				<th>NO</th>
+				<th>KETERANGAN</th>
+				<th>DATA DIRI</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1.</td>
+				<td>Nama Lengkap</td>
+				<td>Shalahudin Hikam Al Ayubi</td>
+			</tr>
+			<tr>
+				<td>2.</td>
+				<td>Tempat Tanggal Lahir</td>
+				<td>Jakarta, 29 Juni 2001</td>
+			</tr>
+			<tr>
+				<td>3.</td>
+				<td>Alamat</td>
+				<td>Sukamaju Baru - Tapos, Depok</td>
+			</tr>
+			<tr>
+				<td>4.</td>
+				<td>Email</td>
+				<td><a href= "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqWgTkZzwCRCtXGMVJmZLNnrCnqTXkrzmhcxJNMgqnZjHgFBLLfCzTpQkcWjLGxmsPRHQq">hikam.alayubi@gmail.com</a></td>
+			</tr>
+			<tr>
+				<td>5.</td>
+				<td>Telepon</td>
+				<td>089619819357</td>
+			</tr>
+			<tr>
+				<td>6.</td>
+				<td>Agama</td>
+				<td>Islam</td>
+			</tr>
+			<tr>
+				<td>7.</td>
+				<td>Jenis Kelamin</td>
+				<td>Laki - Laki</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<br>
+	<hr style="height: 15px; background-color: blue">
+	<table cellspacing="7"; border="4">
+		<caption><h2>RIWAYAT PENDIDIKAN</h2></caption>
+		<thead>
+			<tr>
+				<th>NO</th>
+				<th>JENJANG PENDIDIKAN</th>
+				<th>NAMA INSTANSI</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>1.</th>
+				<th style="text-align: left;">SD</th>
+				<th style="text-align: left;">SDN Sukamaju Baru 2</th>
+			</td>
+			<tr>
+				<th>2.</th>
+				<th style="text-align: left;">SMP</th>
+				<th style="text-align: left;">MTs Negeri 4 Jakarta Selatan</th>
+			</tr>
+			<tr>
+				<th>3.</th>
+				<th style="text-align: left;">SMA</th>
+				<th style="text-align: left;">MAS Ummul Quro Al Islami</th>
+			</tr>
+		</tbody>
+	</table>
+
+	<br>
+	<hr style="height: 15px; background-color: blue">
+		<h2>PENGALAMAN ORGANISASI</h2></caption>
+		<ol>2017-2018</ol>
+			<li>Anggota Keredaksian Majalah Sekolah</li>
+			<li>Anggota Jurnalis</li>
+			<li>Sekretaris Pergantian Pengurus</li>
+		<ol>2018-2019</ol>
+			<li>Announcer/penyiar di radio sekolah</li>
+			<li>Anggota Design Grafis Sekolah</li>
+			<li>Sekretaris Ikatan Santri Putra</li>
+			<li>Konseptor Membershow</li>
+		<ol>2019-2020</ol>
+			<li>Konseptor Porseni xxv</li>
+			<li>Video Editor BTS</li>
+			<li>Wakil Ketua Redaksi Sekolah</li>
+			<li>Ketua Jurnalis Sekolah</li>
+	<br>
+	<hr style="height: 15px; background-color: blue">
+	<table cellspacing="25">
+		<ol><h2>MEDIA SOSIAL</h2></ol>
+		<li><img src="wa1.png" style="width: 30px"></li>
+		<hr/>
+		<li style="text-align: left;"><a href=https://wa.me/089619819357>089619819357</a></li>
+		<br>
+		<li><img src="ihiy.png" style="width: 30px"></li>
+		<hr/>
+		<li style="text-align: left;"><a href=https://www.instagram.com/al.yubbb/>al.yubbb</a></li>
+			
+		</tbody>
+	</table>
+
+	<br>
+	<hr style="height: 15px; background-color: blue">
+	<h2>MOTTO HIDUP DAN PESAN :</h2>
+	<p> Never Trouble about Trouble Until Trouble Troubles You. Banyak orang yang cenderung mempermasalahkan suatu masalah yang belum terjadi. Bukannya menghadapi apa yang ada sekarang, justru meramalkan masa depan yang tidak diketahui pasti. Sikap seperti ini sama sekali tidak menguntungkan diri sendiri.
+			<hr/>
+	<p>Oleh karena itu perlu sikap tegas dari dalam diri untuk tidak berfokus pada masa depan. 
+		Akan tetapi fokuslah pada apa yang terjadi di masa sekarang. 
+		Merencanakan masa depan itu adalah hal yang baik. 
+		Namun jika terlalu mengkhawatirkan tentang segala kemungkinan buruk yang bisa terjadi, 
+		maka itu berarti mengabaikan apa yang terjadi hari ini.
+
+</body>
+</html>
